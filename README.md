@@ -20,7 +20,7 @@ Outline:
 	- Talk specifically about the hardware components they will be using (breadboard, wires, piezo buzzer)
 
 - HANDS ON ACTIVITY
-	- Show the students the spritzing diagram of how the piezo buzzer needs to be connected. Allow them to work in groups to 
+	- Show the students the fritzing diagram of how the piezo buzzer needs to be connected. Allow them to work in groups to 
 	connect the components correctly
 	- Once all students have the circuit completed explain the functions needed to communicate with the buzzer
 	- Allow them to use the easyBuzzer program as a template to program in groups. Optionally give them specific tasks/challenges
