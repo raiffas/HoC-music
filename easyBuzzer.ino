@@ -12,6 +12,6 @@ void loop() {
   tone(buzzerPin, 500);     //this function will send a frequency to the buzzerPin and the buzzer will play that note
   delay(100);               //wait a certain amount of time (in milliseconds) before going to the next function
   noTone(buzzerPin);        //this function will stop the sound
-  delay(1000);              //wait before moving on;
+  delay(1000);              //wait before looping
 
 }
