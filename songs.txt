@@ -1,0 +1,30 @@
+Songs
+
+//Mary Had a Little Lamb
+const int NumOfNotes = 26;
+int notes[] = {E4, D4, C4, D4, E4, E4, E4, D4, D4,
+                D4, E4, G4, G4, E4, D4, C4, D4, E4,
+                E4, E4, E4, D4, D4, E4, D4, C4};
+int beats[] = {2, 2, 2, 2, 2, 2, 3, 2, 2, 3, 2, 2,
+                3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2,
+                2, 2, 4};
+
+//We Wish You A Merry Christmas
+const int NumOfNotes = 30;
+int notes[] = {D4, G4, G4, a4, G4, Fsharp4, E4, C4, E4,
+                a4, a4, B4, a4, G4, Fsharp4, D4, D4, B4,
+                B4, C5, C4, a4, G4, E4, D4, D4, E4, a4,
+                Fsharp4, G4};
+int beats[] = {2, 2, 1, 1, 1, 1, 2, 2, 2, 2,
+                1, 1, 1, 1, 2, 2, 2
+                2, 1, 1, 1, 1, 2, 2, 1,
+                1, 2, 2, 2, 3};
+
+//Rather Be Intro
+const int NumOfNotes = 19;
+int notes[] = {C4, E4, G4, C5, R, D5, B4, R, R,
+                C4, E4 , G4, a4, R, G4, E4, R, G4, R};
+int beats[] = {1, 1, 1, 1, 2, 2, 2, 2, 3,
+                1, 1, 1, 1, 2, 2, 2, 2, 2, 2};
+
+
